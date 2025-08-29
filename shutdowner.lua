@@ -1,1 +1,2 @@
-os.shutdown()
+print("FUCK")
+
